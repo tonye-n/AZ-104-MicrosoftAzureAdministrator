@@ -26,7 +26,7 @@ In this demonstration, we will create and work with Azure App Service plans.
 
 1. Review the **Scale up (App Service Plan)** blade. Discuss the difference between **Dev/Test** and **Production** plans. Review the feature list. 
 
-1. Review the **Scale out (App Service Plan)** blade. Review the difference between **Manual** and **Rule=based**. 
+1. Review the **Scale out (App Service Plan)** blade. Review the difference between **Manual** and **Rule-based**. 
 
 ## Configure Azure App Services
 
@@ -80,7 +80,7 @@ In this demonstration we create, configure, and deploy a container by using Azur
 
 1. Wait for the resource to deploy.
 
-1. On the **Overview** page for the resoure, ensure the **Status** is **Running**.
+1. On the **Overview** page for the resource, ensure the **Status** is **Running**.
 
 1. Navigate to the **FQDN** for the container instance and ensure the welcome page displays. 
 

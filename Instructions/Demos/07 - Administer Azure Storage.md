@@ -48,23 +48,6 @@ In this demonstration, we will explore blob storage.
 
 1. Upload a blob to the container. As you have time review the advanced settings. For example, blob type and blob size. 
 
-## Configure Azure Files 
-
-In this demonstration, we will work with files shares and snapshots.
-
-**Note:** These steps require a storage account.
-
-**Reference**: [Quickstart for managing Azure file shares](https://docs.microsoft.com/azure/storage/files/storage-how-to-use-files-portal?tabs=azure-portal)
-
-1. Review the purpose of file shares. 
-
-1. Access a storage account and click **Files**.
-
-1. Create a file share. Review quotas, uploading files, and adding directories to organize the information. 
-
-1. Create a file share snapshot. Review when to use snapshots and how they are different from backups. As you have time, upload a file, take a snapshot, delete the file, and restore the snapshot. 
-
-
 ## Configure Storage Security
 
 In this demonstration, we will create a shared access signature.
@@ -80,9 +63,21 @@ In this demonstration, we will create a shared access signature.
 1. Use the SAS URL to ensure the resource displays. 
 
 
-## Storage Tools (optional)
+## Configure Azure Files 
 
-In this demonstration, we will review several common Azure storage tools. 
+In this demonstration, we will work with files shares and snapshots.
+
+**Note:** These steps require a storage account.
+
+**Reference**: [Quickstart for managing Azure file shares](https://docs.microsoft.com/azure/storage/files/storage-how-to-use-files-portal?tabs=azure-portal)
+
+1. Review the purpose of file shares. 
+
+1. Access a storage account and click **Files**.
+
+1. Create a file share. Review quotas, uploading files, and adding directories to organize the information. 
+
+1. Create a file share snapshot. Review when to use snapshots and how they are different from backups. As you have time, upload a file, take a snapshot, delete the file, and restore the snapshot.
 
 **Reference**: [Get started with Storage Explorer](https://docs.microsoft.com/azure/vs-azure-tools-storage-manage-with-storage-explorer?tabs=windows)
 
